@@ -16,8 +16,7 @@ class SnipsYeelight:
     """ Yeelight skill for Snips. """
 
     def __init__(self):
-        """ Initialisation.
-        """
+        """ Initialisation. """
         self.MCAST_GRP = '239.255.255.250'
         self.MCAST_PORT = 1982
         self.MULTICAST_TTL = 2
@@ -76,9 +75,14 @@ class SnipsYeelight:
                     name = clean.split(':')[1].strip()
             self.bulbs.append(YeelightBulb(ip, port, name))
 
-    def light_on_set(self, color=None, intensity=None, location=None):
-        """ Turn on Yeelight lights in [location] at [intensity] with [color] color. """
+    def light_on_set(self, color=None, temperature=None, intensity=None, location=None):
+        """ Turn on Yeelight lights in [location] at [intensity] with [color] color.
 
+        :param color: The new color or None.
+        :param temperature: The new temperature or None.
+        :param intensity: The new intensity or None.
+        :param: location: The location of the lights.
+        """
         light_ids = self._get_light_ids_from_room(location)
 
         state = {
@@ -93,7 +97,7 @@ class SnipsYeelight:
         }
         self._post_state_to_ids(state, light_ids)
 
-        if intensity != None:
+        if intensity is not None:
             intensity = int(intensity)
             state = {
                 'id': self.id,
@@ -105,7 +109,7 @@ class SnipsYeelight:
                 ]
             }
             self._post_state_to_ids(state, light_ids)
-        if color != None:
+        if color is not None:
             color = COLORS.get(color, 0)
             state = {
                 'id': self.id,
@@ -117,9 +121,23 @@ class SnipsYeelight:
                 ]
             }
             self._post_state_to_ids(state, light_ids)
+        if temperature is not None:
+            state = {
+                'id': self.id,
+                'method': 'set_ct_abx',
+                'params': [
+                    temperature,
+                    'smooth',
+                    500
+                ]
+            }
+            self._post_state_to_ids(state, light_ids)
 
     def light_off(self, location):
-        """ Turn off Yeelight lights in [location]. """
+        """ Turn off Yeelight lights in [location].
+
+        :param: location: The location of the lights.
+        """
         light_ids = self._get_light_ids_from_room(location)
 
         state = {
@@ -134,8 +152,42 @@ class SnipsYeelight:
         }
         self._post_state_to_ids(state, light_ids)
 
+    def temperature_up(self, temp_augmentation, location):
+        """ Increase Yeelight temperature by percentage.
+
+        :param temp_augmentation: The percentage of temperature augmentation.
+        :param: location: The location of the lights.
+        """
+        # Firstly, turn on the bulbs
+        self.light_on_set()
+
+        light_ids = self._get_light_ids_from_room(location)
+
+        for light_id in light_ids:
+            state = {
+                'id': self.id,
+                'method': 'adjust_ct',
+                'params': [
+                    temp_augmentation,
+                    'smooth',
+                    500
+                ]
+            }
+            self._post_state(state, light_id)
+
+    def temperature_down(self, temp_reduction, location):
+        """ Decrease Yeelight temperature by percentage.
+
+        :param temp_reduction: The percentage of temperature reduction.
+        :param: location: The location of the lights."""
+        self.temperature_up(-temp_reduction, location)
+
     def light_up(self, intensity_augmentation, location):
-        """ Increase Yeelight lights' intensity. """
+        """ Increase Yeelight lights' intensity.
+
+        :param intensity_augmentation: The percentage of bright augmentation.
+        :param: location: The location of the lights.
+        """
         # Firstly, turn on the bulbs
         self.light_on_set()
 
@@ -150,7 +202,7 @@ class SnipsYeelight:
                 ]
             }
             intensity = int(self._post_state(state, light_id)['result'][0])
-            if intensity + intensity_augmentation > 254:
+            if intensity + intensity_augmentation > 100:
                 intensity = 100
             elif intensity + intensity_augmentation < 0:
                 intensity = 0
@@ -169,11 +221,19 @@ class SnipsYeelight:
             self._post_state(state, light_id)
 
     def light_down(self, intensity_reduction, location):
-        """ Lower Yeelight lights' intensity. """
+        """ Lower Yeelight lights' intensity.
+
+        :param intensity_reduction: The percentage of bright reduction.
+        :param: location: The location of the lights.
+        """
         self.light_up(-intensity_reduction, location)
 
     def _post_state_to_ids(self, params, light_ids):
-        """ Post a state update to specyfied Yeelight lights. """
+        """ Post a state update to specyfied Yeelight lights.
+
+        :param: params: Yeelight request parameters.
+        :pram light_id: id:port of Yeelioght bulb.
+        """
         try:
             for light_id in light_ids:
                 self._post_state(params, light_id)
@@ -207,7 +267,10 @@ class SnipsYeelight:
         return data
 
     def _get_light_ids_from_room(self, room):
-        """ Returns the list of lights in a [room] or all light_ids if [room] is None """
+        """ Returns the list of lights in a [room] or all light_ids if [room] is None.
+
+        :param room: The room where search lights.
+        """
 
         if room is not None:
             room = room.lower()
