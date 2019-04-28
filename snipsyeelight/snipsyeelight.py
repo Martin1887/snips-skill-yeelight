@@ -8,8 +8,8 @@ import errno
 import sys
 import socket
 
-from snipsyeelight.yeelightbulb import YeelightBulb
-from snipsyeelight.color_utils import COLORS
+from yeelightbulb import YeelightBulb
+from color_utils import COLORS
 
 
 class SnipsYeelight:
@@ -161,6 +161,11 @@ class SnipsYeelight:
         # Firstly, turn on the bulbs
         self.light_on_set()
 
+        try:
+            temp_augmentation = int(temp_augmentation)
+        except ValueError:
+            temp_augmentation = 10
+
         light_ids = self._get_light_ids_from_room(location)
 
         for light_id in light_ids:
@@ -180,6 +185,10 @@ class SnipsYeelight:
 
         :param temp_reduction: The percentage of temperature reduction.
         :param: location: The location of the lights."""
+        try:
+            temp_reduction = int(temp_reduction)
+        except ValueError:
+            temp_reduction = 10
         self.temperature_up(-temp_reduction, location)
 
     def light_up(self, intensity_augmentation, location):
@@ -190,6 +199,11 @@ class SnipsYeelight:
         """
         # Firstly, turn on the bulbs
         self.light_on_set()
+
+        try:
+            intensity_augmentation = int(intensity_augmentation)
+        except ValueError:
+            intensity_augmentation = 10
 
         light_ids = self._get_light_ids_from_room(location)
 
@@ -226,6 +240,10 @@ class SnipsYeelight:
         :param intensity_reduction: The percentage of bright reduction.
         :param: location: The location of the lights.
         """
+        try:
+            intensity_reduction = int(intensity_reduction)
+        except ValueError:
+            intensity_reduction = 10
         self.light_up(-intensity_reduction, location)
 
     def _post_state_to_ids(self, params, light_ids):
