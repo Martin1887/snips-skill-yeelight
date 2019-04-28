@@ -1,0 +1,34 @@
+base
+oficina
+baño
+despensa, alacena
+vestíbulo
+estudio
+cubículo
+comedor
+vestidor
+lavandería
+sala de espera
+cocina
+salón
+dormitorio
+entrada
+patio trasero, patio de atraś
+aseo, aseos
+cobertizo
+habitación de los niños, habitación del niño, habitación de la niña
+garaje
+aparcamiento
+jardín
+patio
+bodega, trastero, sótano
+todos los sitios, doquier
+sala de juntas
+sala grande
+sala de estar
+salón
+casa, casa entera
+estancia, toda la estancia
+apartamento, piso, piso entero, apartamento entero
+sala
+habitación de Dani
