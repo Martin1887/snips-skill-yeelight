@@ -1,13 +1,8 @@
 #!/usr/bin/env python2
 # -*-: coding utf-8 -*-
 
-from datetime import datetime
-import datetime as dt
-from dateutil.parser import parse
 from hermes_python.hermes import Hermes
 import hermes_python
-import io
-import os
 from snipsyeelight.snipsyeelight import SnipsYeelight
 
 MQTT_IP_ADDR = "localhost"
@@ -159,7 +154,7 @@ def turnOn(hermes, intent_message):
     :param intent_message: The intent message with slots.
     """
     house_room = getRoom(intent_message)
-    hermes.skill.light_on(house_room)
+    hermes.skill.light_on_set(location=house_room)
     current_session_id = intent_message.session_id
     hermes.publish_end_session(current_session_id, '')
 
@@ -172,13 +167,13 @@ if __name__ == "__main__":
             .subscribe_intent("Martin1887:reduceBrightYeelight",reduceBright) \
             .subscribe_intent("Martin1887:cambiarBrilloYeelight", changeBright) \
             .subscribe_intent("Martin1887:changeBrightYeelight", changeBright) \
-            .subscribe_intent("Martin1887:aumenetarBrilloYeelight", increaseBright) \
+            .subscribe_intent("Martin1887:aumentarBrilloYeelight", increaseBright) \
             .subscribe_intent("Martin1887:increaseBrightYeelight", increaseBright) \
-            .subscribe_intent("Martin1887:reducirTemperatureYeelight",reduceTemperature) \
+            .subscribe_intent("Martin1887:reducirTemperaturaYeelight",reduceTemperature) \
             .subscribe_intent("Martin1887:reduceTemperatureYeelight",reduceTemperature) \
             .subscribe_intent("Martin1887:cambiarTemperaturaYeelight", changeTemperature) \
             .subscribe_intent("Martin1887:changeTemperatureYeelight", changeTemperature) \
-            .subscribe_intent("Martin1887:aumenetarTemperatureYeelight", increaseTemperature) \
+            .subscribe_intent("Martin1887:aumentarTemperaturaYeelight", increaseTemperature) \
             .subscribe_intent("Martin1887:increaseTemperatureYeelight", increaseTemperature) \
             .subscribe_intent("Martin1887:cambiarColorYeelight", changeColor) \
             .subscribe_intent("Martin1887:changeColorYeelight", changeColor) \

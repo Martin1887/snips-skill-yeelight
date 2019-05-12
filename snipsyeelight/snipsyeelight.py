@@ -25,55 +25,53 @@ class SnipsYeelight:
             socket.AF_INET, socket.SOCK_DGRAM, socket.IPPROTO_UDP)
         sock.setsockopt(socket.IPPROTO_IP,
                         socket.IP_MULTICAST_TTL, self.MULTICAST_TTL)
-        sock.bind(('', 0))
-        (host, port) = sock.getsockname()
+        sock.settimeout(10)
 
         self.id = 0
         self.SEARCH_MSG = 'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1982\r\nMAN: "ssdp:discover"\r\nST: wifi_bulb'
 
         sock.sendto(self.SEARCH_MSG, (self.MCAST_GRP, self.MCAST_PORT))
 
-        self.recv_lights(host, port)
+        self.recv_lights(sock)
 
-    def recv_lights(self, host, port):
+    def recv_lights(self, sock):
         """ Get the responses of all conected bulbs
 
         :param host: The sender host.
         :param port: The sender port.
-        :return:
         """
-        sock = socket.socket(
-            socket.AF_INET, socket.SOCK_DGRAM, socket.IPPROTO_UDP)
-        sock.bind((host, port))
         self.bulbs = []
 
         while True:
-            # 10240 is the buffer size in bytes
-            data, _addr = sock.recvfrom(10240)
-            ip = ''
-            _power = False
-            _bright = 0
-            _rgb = 0
-            name = ''
-            for line in data.split('\n'):
-                clean = line.strip().lower()
-                if 'location' in clean:
-                    ip_port = clean.replace(
-                        'location: yeelight://', '').split(':')
-                    ip = ip_port[0]
-                    port = ip_port[1]
-                elif 'power' in clean:
-                    if 'on' in clean:
-                        _power = True
-                    else:
-                        _power = False
-                elif 'bright' in clean:
-                    _bright = int(clean.split(':')[1].strip())
-                elif 'rgb' in clean:
-                    _rgb = int(clean.split(':')[1].strip())
-                elif 'name' in clean:
-                    name = clean.split(':')[1].strip()
-            self.bulbs.append(YeelightBulb(ip, port, name))
+            try:
+                # 10240 is the buffer size in bytes
+                data = sock.recv(2048)
+                ip = ''
+                _power = False
+                _bright = 0
+                _rgb = 0
+                name = ''
+                for line in data.split('\n'):
+                    clean = line.strip().lower()
+                    if 'location' in clean:
+                        ip_port = clean.replace(
+                            'location: yeelight://', '').split(':')
+                        ip = ip_port[0]
+                        port = int(ip_port[1])
+                    elif 'power' in clean:
+                        if 'on' in clean:
+                            _power = True
+                        else:
+                            _power = False
+                    elif 'bright' in clean:
+                        _bright = int(clean.split(':')[1].strip())
+                    elif 'rgb' in clean:
+                        _rgb = int(clean.split(':')[1].strip())
+                    elif 'name' in clean:
+                        name = clean.split(':')[1].strip()
+                self.bulbs.append(YeelightBulb(ip, port, name))
+            except socket.timeout:
+                break
 
     def light_on_set(self, color=None, temperature=None, intensity=None, location=None):
         """ Turn on Yeelight lights in [location] at [intensity] with [color] color.
