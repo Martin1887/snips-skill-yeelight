@@ -161,7 +161,7 @@ class SnipsYeelight:
 
         try:
             temp_augmentation = int(temp_augmentation)
-        except ValueError:
+        except (ValueError, TypeError):
             temp_augmentation = 10
 
         light_ids = self._get_light_ids_from_room(location)
@@ -185,7 +185,7 @@ class SnipsYeelight:
         :param: location: The location of the lights."""
         try:
             temp_reduction = int(temp_reduction)
-        except ValueError:
+        except (ValueError, TypeError):
             temp_reduction = 10
         self.temperature_up(-temp_reduction, location)
 
@@ -200,7 +200,7 @@ class SnipsYeelight:
 
         try:
             intensity_augmentation = int(intensity_augmentation)
-        except ValueError:
+        except (ValueError, TypeError):
             intensity_augmentation = 10
 
         light_ids = self._get_light_ids_from_room(location)
@@ -240,7 +240,7 @@ class SnipsYeelight:
         """
         try:
             intensity_reduction = int(intensity_reduction)
-        except ValueError:
+        except (ValueError, TypeError):
             intensity_reduction = 10
         self.light_up(-intensity_reduction, location)
 
