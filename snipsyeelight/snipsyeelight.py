@@ -199,7 +199,7 @@ class SnipsYeelight:
         self.light_on_set()
 
         try:
-            intensity_augmentation = int(intensity_augmentation)
+            intensity_augmentation = int(float(intensity_augmentation))
         except (ValueError, TypeError):
             intensity_augmentation = 10
 
@@ -216,8 +216,8 @@ class SnipsYeelight:
             intensity = int(self._post_state(state, light_id)['result'][0])
             if intensity + intensity_augmentation > 100:
                 intensity = 100
-            elif intensity + intensity_augmentation < 0:
-                intensity = 0
+            elif intensity + intensity_augmentation <= 0:
+                intensity = 1
             else:
                 intensity += intensity_augmentation
 
@@ -239,7 +239,7 @@ class SnipsYeelight:
         :param: location: The location of the lights.
         """
         try:
-            intensity_reduction = int(intensity_reduction)
+            intensity_reduction = int(float(intensity_reduction))
         except (ValueError, TypeError):
             intensity_reduction = 10
         self.light_up(-intensity_reduction, location)
