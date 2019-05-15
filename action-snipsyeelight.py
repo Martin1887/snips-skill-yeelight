@@ -164,11 +164,11 @@ if __name__ == "__main__":
     with Hermes(MQTT_ADDR.encode("ascii")) as h:
         h.skill = skill
         h.subscribe_intent("Martin1887:reducirBrilloYeelight", reduceBright) \
-            .subscribe_intent("Martin1887:reduceBrightYeelight",reduceBright) \
+            .subscribe_intent("Martin1887:reduceBrightnessYeelight",reduceBright) \
             .subscribe_intent("Martin1887:cambiarBrilloYeelight", changeBright) \
-            .subscribe_intent("Martin1887:changeBrightYeelight", changeBright) \
+            .subscribe_intent("Martin1887:changeBrightnessYeelight", changeBright) \
             .subscribe_intent("Martin1887:aumentarBrilloYeelight", increaseBright) \
-            .subscribe_intent("Martin1887:increaseBrightYeelight", increaseBright) \
+            .subscribe_intent("Martin1887:increaseBrightnessYeelight", increaseBright) \
             .subscribe_intent("Martin1887:reducirTemperaturaYeelight",reduceTemperature) \
             .subscribe_intent("Martin1887:reduceTemperatureYeelight",reduceTemperature) \
             .subscribe_intent("Martin1887:cambiarTemperaturaYeelight", changeTemperature) \

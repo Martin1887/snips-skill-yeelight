@@ -1,0 +1,1252 @@
+Put light at [25%](percent)
+Set light at [25%](percent)
+Change light at [25%](percent)
+I want a [25%](percent) of light
+I want [25%](percent) of light
+I need a [25%](percent) of light
+I need [25%](percent) of light
+I would like a [25%](percent) of light
+I would like [25%](percent) of light
+I wish a [25%](percent) of light
+I wish [25%](percent) of light
+Put light intensity at [25%](percent)
+Set light intensity at [25%](percent)
+Change light intensity at [25%](percent)
+I want a [25%](percent) of light intensity
+I want [25%](percent) of light intensity
+I need a [25%](percent) of light intensity
+I need [25%](percent) of light intensity
+I would like a [25%](percent) of light intensity
+I would like [25%](percent) of light intensity
+I wish a [25%](percent) of light intensity
+I wish [25%](percent) of light intensity
+Set light intensity at [25%](percent) in the [room](house_room)
+Set light intensity in the [room](house_room) at [25%](percent)
+I need a [25%](percent) of light intensity int he [room](house_room)
+I need a [25%](percent) in the [room](house_room) of light intensity
+I need [25%](percent) of light intensity in the [room](house_room)
+I need [25%](percent) in the [room](house_room) of light intensity
+I need el [25%](percent) of light intensity in the [room](house_room)
+I need el [25%](percent) in the [room](house_room) of light intensity
+Put bright at [25%](percent)
+Set bright at [25%](percent)
+Change bright at [25%](percent)
+I want a [25%](percent) of bright
+I want [25%](percent) of bright
+I need a [25%](percent) of bright
+I need [25%](percent) of bright
+I would like a [25%](percent) of bright
+I would like [25%](percent) of bright
+I wish a [25%](percent) of bright
+I wish [25%](percent) of bright
+Put brightness at [25%](percent)
+Set brightness at [25%](percent)
+Change brightness at [25%](percent)
+I want a [25%](percent) of brightness
+I want [25%](percent) of brightness
+I need a [25%](percent) of brightness
+I need [25%](percent) of brightness
+I would like a [25%](percent) of brightness
+I would like [25%](percent) of brightness
+I wish a [25%](percent) of brightness
+I wish [25%](percent) of brightness
+Change brightness at [25%](percent) in the [large meeting room](house_room)
+Change brightness in the [large meeting room](house_room) at [25%](percent)
+I want a [25%](percent) of brightness int he [large meeting room](house_room)
+I want a [25%](percent) in the [large meeting room](house_room) of brightness
+I want [25%](percent) of brightness in the [large meeting room](house_room)
+I want [25%](percent) in the [large meeting room](house_room) of brightness
+I want el [25%](percent) of brightness in the [large meeting room](house_room)
+I want el [25%](percent) in the [large meeting room](house_room) of brightness
+I would like a [25%](percent) of brightness int he [large meeting room](house_room)
+I would like a [25%](percent) in the [large meeting room](house_room) of brightness
+I would like [25%](percent) of brightness in the [large meeting room](house_room)
+I would like [25%](percent) in the [large meeting room](house_room) of brightness
+I would like el [25%](percent) of brightness in the [large meeting room](house_room)
+I would like el [25%](percent) in the [large meeting room](house_room) of brightness
+Put light at [25 percent](percent)
+Set light at [25 percent](percent)
+Change light at [25 percent](percent)
+I want a [25 percent](percent) of light
+I want [25 percent](percent) of light
+I need a [25 percent](percent) of light
+I need [25 percent](percent) of light
+I would like a [25 percent](percent) of light
+I would like [25 percent](percent) of light
+I wish a [25 percent](percent) of light
+I wish [25 percent](percent) of light
+Put light intensity at [25 percent](percent)
+Set light intensity at [25 percent](percent)
+Change light intensity at [25 percent](percent)
+I want a [25 percent](percent) of light intensity
+I want [25 percent](percent) of light intensity
+I need a [25 percent](percent) of light intensity
+I need [25 percent](percent) of light intensity
+I would like a [25 percent](percent) of light intensity
+I would like [25 percent](percent) of light intensity
+I wish a [25 percent](percent) of light intensity
+I wish [25 percent](percent) of light intensity
+Change light intensity at [25 percent](percent) in the [basement](house_room)
+Change light intensity in the [basement](house_room) at [25 percent](percent)
+Put bright at [25 percent](percent)
+Set bright at [25 percent](percent)
+Change bright at [25 percent](percent)
+I want a [25 percent](percent) of bright
+I want [25 percent](percent) of bright
+I need a [25 percent](percent) of bright
+I need [25 percent](percent) of bright
+I would like a [25 percent](percent) of bright
+I would like [25 percent](percent) of bright
+I wish a [25 percent](percent) of bright
+I wish [25 percent](percent) of bright
+Put brightness at [25 percent](percent)
+Set brightness at [25 percent](percent)
+Change brightness at [25 percent](percent)
+I want a [25 percent](percent) of brightness
+I want [25 percent](percent) of brightness
+I need a [25 percent](percent) of brightness
+I need [25 percent](percent) of brightness
+I would like a [25 percent](percent) of brightness
+I would like [25 percent](percent) of brightness
+I wish a [25 percent](percent) of brightness
+I wish [25 percent](percent) of brightness
+Put brightness at [25 percent](percent) in the [kitchen](house_room)
+Put brightness in the [kitchen](house_room) at [25 percent](percent)
+I want a [25 percent](percent) of brightness int he [kitchen](house_room)
+I want a [25 percent](percent) in the [kitchen](house_room) of brightness
+I want [25 percent](percent) of brightness in the [kitchen](house_room)
+I want [25 percent](percent) in the [kitchen](house_room) of brightness
+I want el [25 percent](percent) of brightness in the [kitchen](house_room)
+I want el [25 percent](percent) in the [kitchen](house_room) of brightness
+Change brightness at [25 percent](percent) in the [flat](house_room)
+Change brightness in the [flat](house_room) at [25 percent](percent)
+I want a [25 percent](percent) of brightness int he [flat](house_room)
+I want a [25 percent](percent) in the [flat](house_room) of brightness
+I want [25 percent](percent) of brightness in the [flat](house_room)
+I want [25 percent](percent) in the [flat](house_room) of brightness
+I want el [25 percent](percent) of brightness in the [flat](house_room)
+I want el [25 percent](percent) in the [flat](house_room) of brightness
+Put light at [the half](percent)
+Set light at [the half](percent)
+Change light at [the half](percent)
+I want a [the half](percent) of light
+I want [the half](percent) of light
+I need a [the half](percent) of light
+I need [the half](percent) of light
+I would like a [the half](percent) of light
+I would like [the half](percent) of light
+I wish a [the half](percent) of light
+I wish [the half](percent) of light
+Put light intensity at [the half](percent)
+Set light intensity at [the half](percent)
+Change light intensity at [the half](percent)
+I want a [the half](percent) of light intensity
+I want [the half](percent) of light intensity
+I need a [the half](percent) of light intensity
+I need [the half](percent) of light intensity
+I would like a [the half](percent) of light intensity
+I would like [the half](percent) of light intensity
+I wish a [the half](percent) of light intensity
+I wish [the half](percent) of light intensity
+Set light intensity at [the half](percent) in the [toilets](house_room)
+Set light intensity in the [toilets](house_room) at [the half](percent)
+Set light intensity at [the half](percent) in the [shed](house_room)
+Set light intensity in the [shed](house_room) at [the half](percent)
+Change light intensity at [the half](percent) in the [room](house_room)
+Change light intensity in the [room](house_room) at [the half](percent)
+I wish a [the half](percent) of light intensity int he [room](house_room)
+I wish a [the half](percent) in the [room](house_room) of light intensity
+I wish [the half](percent) of light intensity in the [room](house_room)
+I wish [the half](percent) in the [room](house_room) of light intensity
+I wish el [the half](percent) of light intensity in the [room](house_room)
+I wish el [the half](percent) in the [room](house_room) of light intensity
+Put bright at [the half](percent)
+Set bright at [the half](percent)
+Change bright at [the half](percent)
+I want a [the half](percent) of bright
+I want [the half](percent) of bright
+I need a [the half](percent) of bright
+I need [the half](percent) of bright
+I would like a [the half](percent) of bright
+I would like [the half](percent) of bright
+I wish a [the half](percent) of bright
+I wish [the half](percent) of bright
+Put bright at [the half](percent) in the [laundry room](house_room)
+Put bright in the [laundry room](house_room) at [the half](percent)
+Put brightness at [the half](percent)
+Set brightness at [the half](percent)
+Change brightness at [the half](percent)
+I want a [the half](percent) of brightness
+I want [the half](percent) of brightness
+I need a [the half](percent) of brightness
+I need [the half](percent) of brightness
+I would like a [the half](percent) of brightness
+I would like [the half](percent) of brightness
+I wish a [the half](percent) of brightness
+I wish [the half](percent) of brightness
+Change brightness at [the half](percent) in the [basement](house_room)
+Change brightness in the [basement](house_room) at [the half](percent)
+Put light at [a quarter](percent)
+Set light at [a quarter](percent)
+Change light at [a quarter](percent)
+I want a [a quarter](percent) of light
+I want [a quarter](percent) of light
+I need a [a quarter](percent) of light
+I need [a quarter](percent) of light
+I would like a [a quarter](percent) of light
+I would like [a quarter](percent) of light
+I wish a [a quarter](percent) of light
+I wish [a quarter](percent) of light
+I need a [a quarter](percent) of light int he [vestibule](house_room)
+I need a [a quarter](percent) in the [vestibule](house_room) of light
+I need [a quarter](percent) of light in the [vestibule](house_room)
+I need [a quarter](percent) in the [vestibule](house_room) of light
+I need el [a quarter](percent) of light in the [vestibule](house_room)
+I need el [a quarter](percent) in the [vestibule](house_room) of light
+I would like a [a quarter](percent) of light int he [vestibule](house_room)
+I would like a [a quarter](percent) in the [vestibule](house_room) of light
+I would like [a quarter](percent) of light in the [vestibule](house_room)
+I would like [a quarter](percent) in the [vestibule](house_room) of light
+I would like el [a quarter](percent) of light in the [vestibule](house_room)
+I would like el [a quarter](percent) in the [vestibule](house_room) of light
+I wish a [a quarter](percent) of light int he [vestibule](house_room)
+I wish a [a quarter](percent) in the [vestibule](house_room) of light
+I wish [a quarter](percent) of light in the [vestibule](house_room)
+I wish [a quarter](percent) in the [vestibule](house_room) of light
+I wish el [a quarter](percent) of light in the [vestibule](house_room)
+I wish el [a quarter](percent) in the [vestibule](house_room) of light
+Change light at [a quarter](percent) in the [waiting room](house_room)
+Change light in the [waiting room](house_room) at [a quarter](percent)
+I need a [a quarter](percent) of light int he [waiting room](house_room)
+I need a [a quarter](percent) in the [waiting room](house_room) of light
+I need [a quarter](percent) of light in the [waiting room](house_room)
+I need [a quarter](percent) in the [waiting room](house_room) of light
+I need el [a quarter](percent) of light in the [waiting room](house_room)
+I need el [a quarter](percent) in the [waiting room](house_room) of light
+Put light intensity at [a quarter](percent)
+Set light intensity at [a quarter](percent)
+Change light intensity at [a quarter](percent)
+I want a [a quarter](percent) of light intensity
+I want [a quarter](percent) of light intensity
+I need a [a quarter](percent) of light intensity
+I need [a quarter](percent) of light intensity
+I would like a [a quarter](percent) of light intensity
+I would like [a quarter](percent) of light intensity
+I wish a [a quarter](percent) of light intensity
+I wish [a quarter](percent) of light intensity
+Put light intensity at [a quarter](percent) in the [toilets](house_room)
+Put light intensity in the [toilets](house_room) at [a quarter](percent)
+Set light intensity at [a quarter](percent) in the [toilets](house_room)
+Set light intensity in the [toilets](house_room) at [a quarter](percent)
+Put bright at [a quarter](percent)
+Set bright at [a quarter](percent)
+Change bright at [a quarter](percent)
+I want a [a quarter](percent) of bright
+I want [a quarter](percent) of bright
+I need a [a quarter](percent) of bright
+I need [a quarter](percent) of bright
+I would like a [a quarter](percent) of bright
+I would like [a quarter](percent) of bright
+I wish a [a quarter](percent) of bright
+I wish [a quarter](percent) of bright
+Change bright at [a quarter](percent) in the [bathroom](house_room)
+Change bright in the [bathroom](house_room) at [a quarter](percent)
+Put bright at [a quarter](percent) in the [bedroom](house_room)
+Put bright in the [bedroom](house_room) at [a quarter](percent)
+Change bright at [a quarter](percent) in the [bedroom](house_room)
+Change bright in the [bedroom](house_room) at [a quarter](percent)
+Put bright at [a quarter](percent) in the [garden](house_room)
+Put bright in the [garden](house_room) at [a quarter](percent)
+Set bright at [a quarter](percent) in the [garden](house_room)
+Set bright in the [garden](house_room) at [a quarter](percent)
+Change bright at [a quarter](percent) in the [garden](house_room)
+Change bright in the [garden](house_room) at [a quarter](percent)
+I would like a [a quarter](percent) of bright int he [garden](house_room)
+I would like a [a quarter](percent) in the [garden](house_room) of bright
+I would like [a quarter](percent) of bright in the [garden](house_room)
+I would like [a quarter](percent) in the [garden](house_room) of bright
+I would like el [a quarter](percent) of bright in the [garden](house_room)
+I would like el [a quarter](percent) in the [garden](house_room) of bright
+I wish a [a quarter](percent) of bright int he [garden](house_room)
+I wish a [a quarter](percent) in the [garden](house_room) of bright
+I wish [a quarter](percent) of bright in the [garden](house_room)
+I wish [a quarter](percent) in the [garden](house_room) of bright
+I wish el [a quarter](percent) of bright in the [garden](house_room)
+I wish el [a quarter](percent) in the [garden](house_room) of bright
+Change bright at [a quarter](percent) in the [large meeting room](house_room)
+Change bright in the [large meeting room](house_room) at [a quarter](percent)
+I wish a [a quarter](percent) of bright int he [large meeting room](house_room)
+I wish a [a quarter](percent) in the [large meeting room](house_room) of bright
+I wish [a quarter](percent) of bright in the [large meeting room](house_room)
+I wish [a quarter](percent) in the [large meeting room](house_room) of bright
+I wish el [a quarter](percent) of bright in the [large meeting room](house_room)
+I wish el [a quarter](percent) in the [large meeting room](house_room) of bright
+Put brightness at [a quarter](percent)
+Set brightness at [a quarter](percent)
+Change brightness at [a quarter](percent)
+I want a [a quarter](percent) of brightness
+I want [a quarter](percent) of brightness
+I need a [a quarter](percent) of brightness
+I need [a quarter](percent) of brightness
+I would like a [a quarter](percent) of brightness
+I would like [a quarter](percent) of brightness
+I wish a [a quarter](percent) of brightness
+I wish [a quarter](percent) of brightness
+Put light at [an octave](percent)
+Set light at [an octave](percent)
+Change light at [an octave](percent)
+I want a [an octave](percent) of light
+I want [an octave](percent) of light
+I need a [an octave](percent) of light
+I need [an octave](percent) of light
+I would like a [an octave](percent) of light
+I would like [an octave](percent) of light
+I wish a [an octave](percent) of light
+I wish [an octave](percent) of light
+Change light at [an octave](percent) in the [kitchen](house_room)
+Change light in the [kitchen](house_room) at [an octave](percent)
+Put light intensity at [an octave](percent)
+Set light intensity at [an octave](percent)
+Change light intensity at [an octave](percent)
+I want a [an octave](percent) of light intensity
+I want [an octave](percent) of light intensity
+I need a [an octave](percent) of light intensity
+I need [an octave](percent) of light intensity
+I would like a [an octave](percent) of light intensity
+I would like [an octave](percent) of light intensity
+I wish a [an octave](percent) of light intensity
+I wish [an octave](percent) of light intensity
+Put bright at [an octave](percent)
+Set bright at [an octave](percent)
+Change bright at [an octave](percent)
+I want a [an octave](percent) of bright
+I want [an octave](percent) of bright
+I need a [an octave](percent) of bright
+I need [an octave](percent) of bright
+I would like a [an octave](percent) of bright
+I would like [an octave](percent) of bright
+I wish a [an octave](percent) of bright
+I wish [an octave](percent) of bright
+Put brightness at [an octave](percent)
+Set brightness at [an octave](percent)
+Change brightness at [an octave](percent)
+I want a [an octave](percent) of brightness
+I want [an octave](percent) of brightness
+I need a [an octave](percent) of brightness
+I need [an octave](percent) of brightness
+I would like a [an octave](percent) of brightness
+I would like [an octave](percent) of brightness
+I wish a [an octave](percent) of brightness
+I wish [an octave](percent) of brightness
+Set brightness at [an octave](percent) in the [entrance](house_room)
+Set brightness in the [entrance](house_room) at [an octave](percent)
+I need a [an octave](percent) of brightness int he [entrance](house_room)
+I need a [an octave](percent) in the [entrance](house_room) of brightness
+I need [an octave](percent) of brightness in the [entrance](house_room)
+I need [an octave](percent) in the [entrance](house_room) of brightness
+I need el [an octave](percent) of brightness in the [entrance](house_room)
+I need el [an octave](percent) in the [entrance](house_room) of brightness
+I wish a [an octave](percent) of brightness int he [parking](house_room)
+I wish a [an octave](percent) in the [parking](house_room) of brightness
+I wish [an octave](percent) of brightness in the [parking](house_room)
+I wish [an octave](percent) in the [parking](house_room) of brightness
+I wish el [an octave](percent) of brightness in the [parking](house_room)
+I wish el [an octave](percent) in the [parking](house_room) of brightness
+Put light at [50%](percent)
+Set light at [50%](percent)
+Change light at [50%](percent)
+I want a [50%](percent) of light
+I want [50%](percent) of light
+I need a [50%](percent) of light
+I need [50%](percent) of light
+I would like a [50%](percent) of light
+I would like [50%](percent) of light
+I wish a [50%](percent) of light
+I wish [50%](percent) of light
+Change light at [50%](percent) in the [boardroom](house_room)
+Change light in the [boardroom](house_room) at [50%](percent)
+Put light intensity at [50%](percent)
+Set light intensity at [50%](percent)
+Change light intensity at [50%](percent)
+I want a [50%](percent) of light intensity
+I want [50%](percent) of light intensity
+I need a [50%](percent) of light intensity
+I need [50%](percent) of light intensity
+I would like a [50%](percent) of light intensity
+I would like [50%](percent) of light intensity
+I wish a [50%](percent) of light intensity
+I wish [50%](percent) of light intensity
+Put bright at [50%](percent)
+Set bright at [50%](percent)
+Change bright at [50%](percent)
+I want a [50%](percent) of bright
+I want [50%](percent) of bright
+I need a [50%](percent) of bright
+I need [50%](percent) of bright
+I would like a [50%](percent) of bright
+I would like [50%](percent) of bright
+I wish a [50%](percent) of bright
+I wish [50%](percent) of bright
+Put brightness at [50%](percent)
+Set brightness at [50%](percent)
+Change brightness at [50%](percent)
+I want a [50%](percent) of brightness
+I want [50%](percent) of brightness
+I need a [50%](percent) of brightness
+I need [50%](percent) of brightness
+I would like a [50%](percent) of brightness
+I would like [50%](percent) of brightness
+I wish a [50%](percent) of brightness
+I wish [50%](percent) of brightness
+Put light at [50 percent](percent)
+Set light at [50 percent](percent)
+Change light at [50 percent](percent)
+I want a [50 percent](percent) of light
+I want [50 percent](percent) of light
+I need a [50 percent](percent) of light
+I need [50 percent](percent) of light
+I would like a [50 percent](percent) of light
+I would like [50 percent](percent) of light
+I wish a [50 percent](percent) of light
+I wish [50 percent](percent) of light
+Put light intensity at [50 percent](percent)
+Set light intensity at [50 percent](percent)
+Change light intensity at [50 percent](percent)
+I want a [50 percent](percent) of light intensity
+I want [50 percent](percent) of light intensity
+I need a [50 percent](percent) of light intensity
+I need [50 percent](percent) of light intensity
+I would like a [50 percent](percent) of light intensity
+I would like [50 percent](percent) of light intensity
+I wish a [50 percent](percent) of light intensity
+I wish [50 percent](percent) of light intensity
+Put bright at [50 percent](percent)
+Set bright at [50 percent](percent)
+Change bright at [50 percent](percent)
+I want a [50 percent](percent) of bright
+I want [50 percent](percent) of bright
+I need a [50 percent](percent) of bright
+I need [50 percent](percent) of bright
+I would like a [50 percent](percent) of bright
+I would like [50 percent](percent) of bright
+I wish a [50 percent](percent) of bright
+I wish [50 percent](percent) of bright
+Change bright at [50 percent](percent) in the [meeting room](house_room)
+Change bright in the [meeting room](house_room) at [50 percent](percent)
+Put brightness at [50 percent](percent)
+Set brightness at [50 percent](percent)
+Change brightness at [50 percent](percent)
+I want a [50 percent](percent) of brightness
+I want [50 percent](percent) of brightness
+I need a [50 percent](percent) of brightness
+I need [50 percent](percent) of brightness
+I would like a [50 percent](percent) of brightness
+I would like [50 percent](percent) of brightness
+I wish a [50 percent](percent) of brightness
+I wish [50 percent](percent) of brightness
+Put light at [10%](percent)
+Set light at [10%](percent)
+Change light at [10%](percent)
+I want a [10%](percent) of light
+I want [10%](percent) of light
+I need a [10%](percent) of light
+I need [10%](percent) of light
+I would like a [10%](percent) of light
+I would like [10%](percent) of light
+I wish a [10%](percent) of light
+I wish [10%](percent) of light
+Change light at [10%](percent) in the [waiting room](house_room)
+Change light in the [waiting room](house_room) at [10%](percent)
+I need a [10%](percent) of light int he [waiting room](house_room)
+I need a [10%](percent) in the [waiting room](house_room) of light
+I need [10%](percent) of light in the [waiting room](house_room)
+I need [10%](percent) in the [waiting room](house_room) of light
+I need el [10%](percent) of light in the [waiting room](house_room)
+I need el [10%](percent) in the [waiting room](house_room) of light
+Put light intensity at [10%](percent)
+Set light intensity at [10%](percent)
+Change light intensity at [10%](percent)
+I want a [10%](percent) of light intensity
+I want [10%](percent) of light intensity
+I need a [10%](percent) of light intensity
+I need [10%](percent) of light intensity
+I would like a [10%](percent) of light intensity
+I would like [10%](percent) of light intensity
+I wish a [10%](percent) of light intensity
+I wish [10%](percent) of light intensity
+I want a [10%](percent) of light intensity int he [entrance](house_room)
+I want a [10%](percent) in the [entrance](house_room) of light intensity
+I want [10%](percent) of light intensity in the [entrance](house_room)
+I want [10%](percent) in the [entrance](house_room) of light intensity
+I want el [10%](percent) of light intensity in the [entrance](house_room)
+I want el [10%](percent) in the [entrance](house_room) of light intensity
+I want a [10%](percent) of light intensity int he [meeting room](house_room)
+I want a [10%](percent) in the [meeting room](house_room) of light intensity
+I want [10%](percent) of light intensity in the [meeting room](house_room)
+I want [10%](percent) in the [meeting room](house_room) of light intensity
+I want el [10%](percent) of light intensity in the [meeting room](house_room)
+I want el [10%](percent) in the [meeting room](house_room) of light intensity
+I wish a [10%](percent) of light intensity int he [meeting room](house_room)
+I wish a [10%](percent) in the [meeting room](house_room) of light intensity
+I wish [10%](percent) of light intensity in the [meeting room](house_room)
+I wish [10%](percent) in the [meeting room](house_room) of light intensity
+I wish el [10%](percent) of light intensity in the [meeting room](house_room)
+I wish el [10%](percent) in the [meeting room](house_room) of light intensity
+Put bright at [10%](percent)
+Set bright at [10%](percent)
+Change bright at [10%](percent)
+I want a [10%](percent) of bright
+I want [10%](percent) of bright
+I need a [10%](percent) of bright
+I need [10%](percent) of bright
+I would like a [10%](percent) of bright
+I would like [10%](percent) of bright
+I wish a [10%](percent) of bright
+I wish [10%](percent) of bright
+I would like a [10%](percent) of bright int he [large meeting room](house_room)
+I would like a [10%](percent) in the [large meeting room](house_room) of bright
+I would like [10%](percent) of bright in the [large meeting room](house_room)
+I would like [10%](percent) in the [large meeting room](house_room) of bright
+I would like el [10%](percent) of bright in the [large meeting room](house_room)
+I would like el [10%](percent) in the [large meeting room](house_room) of bright
+Put brightness at [10%](percent)
+Set brightness at [10%](percent)
+Change brightness at [10%](percent)
+I want a [10%](percent) of brightness
+I want [10%](percent) of brightness
+I need a [10%](percent) of brightness
+I need [10%](percent) of brightness
+I would like a [10%](percent) of brightness
+I would like [10%](percent) of brightness
+I wish a [10%](percent) of brightness
+I wish [10%](percent) of brightness
+Set brightness at [10%](percent) in the [bedroom](house_room)
+Set brightness in the [bedroom](house_room) at [10%](percent)
+I would like a [10%](percent) of brightness int he [bedroom](house_room)
+I would like a [10%](percent) in the [bedroom](house_room) of brightness
+I would like [10%](percent) of brightness in the [bedroom](house_room)
+I would like [10%](percent) in the [bedroom](house_room) of brightness
+I would like el [10%](percent) of brightness in the [bedroom](house_room)
+I would like el [10%](percent) in the [bedroom](house_room) of brightness
+Put light at [10 percent](percent)
+Set light at [10 percent](percent)
+Change light at [10 percent](percent)
+I want a [10 percent](percent) of light
+I want [10 percent](percent) of light
+I need a [10 percent](percent) of light
+I need [10 percent](percent) of light
+I would like a [10 percent](percent) of light
+I would like [10 percent](percent) of light
+I wish a [10 percent](percent) of light
+I wish [10 percent](percent) of light
+Put light intensity at [10 percent](percent)
+Set light intensity at [10 percent](percent)
+Change light intensity at [10 percent](percent)
+I want a [10 percent](percent) of light intensity
+I want [10 percent](percent) of light intensity
+I need a [10 percent](percent) of light intensity
+I need [10 percent](percent) of light intensity
+I would like a [10 percent](percent) of light intensity
+I would like [10 percent](percent) of light intensity
+I wish a [10 percent](percent) of light intensity
+I wish [10 percent](percent) of light intensity
+Set light intensity at [10 percent](percent) in the [entrance](house_room)
+Set light intensity in the [entrance](house_room) at [10 percent](percent)
+Put bright at [10 percent](percent)
+Set bright at [10 percent](percent)
+Change bright at [10 percent](percent)
+I want a [10 percent](percent) of bright
+I want [10 percent](percent) of bright
+I need a [10 percent](percent) of bright
+I need [10 percent](percent) of bright
+I would like a [10 percent](percent) of bright
+I would like [10 percent](percent) of bright
+I wish a [10 percent](percent) of bright
+I wish [10 percent](percent) of bright
+Put brightness at [10 percent](percent)
+Set brightness at [10 percent](percent)
+Change brightness at [10 percent](percent)
+I want a [10 percent](percent) of brightness
+I want [10 percent](percent) of brightness
+I need a [10 percent](percent) of brightness
+I need [10 percent](percent) of brightness
+I would like a [10 percent](percent) of brightness
+I would like [10 percent](percent) of brightness
+I wish a [10 percent](percent) of brightness
+I wish [10 percent](percent) of brightness
+Change brightness at [10 percent](percent) in the [dining room](house_room)
+Change brightness in the [dining room](house_room) at [10 percent](percent)
+Change brightness at [10 percent](percent) in the [kitchen](house_room)
+Change brightness in the [kitchen](house_room) at [10 percent](percent)
+I need a [10 percent](percent) of brightness int he [patio](house_room)
+I need a [10 percent](percent) in the [patio](house_room) of brightness
+I need [10 percent](percent) of brightness in the [patio](house_room)
+I need [10 percent](percent) in the [patio](house_room) of brightness
+I need el [10 percent](percent) of brightness in the [patio](house_room)
+I need el [10 percent](percent) in the [patio](house_room) of brightness
+Put light at [20%](percent)
+Set light at [20%](percent)
+Change light at [20%](percent)
+I want a [20%](percent) of light
+I want [20%](percent) of light
+I need a [20%](percent) of light
+I need [20%](percent) of light
+I would like a [20%](percent) of light
+I would like [20%](percent) of light
+I wish a [20%](percent) of light
+I wish [20%](percent) of light
+Put light intensity at [20%](percent)
+Set light intensity at [20%](percent)
+Change light intensity at [20%](percent)
+I want a [20%](percent) of light intensity
+I want [20%](percent) of light intensity
+I need a [20%](percent) of light intensity
+I need [20%](percent) of light intensity
+I would like a [20%](percent) of light intensity
+I would like [20%](percent) of light intensity
+I wish a [20%](percent) of light intensity
+I wish [20%](percent) of light intensity
+I want a [20%](percent) of light intensity int he [backyard](house_room)
+I want a [20%](percent) in the [backyard](house_room) of light intensity
+I want [20%](percent) of light intensity in the [backyard](house_room)
+I want [20%](percent) in the [backyard](house_room) of light intensity
+I want el [20%](percent) of light intensity in the [backyard](house_room)
+I want el [20%](percent) in the [backyard](house_room) of light intensity
+Put bright at [20%](percent)
+Set bright at [20%](percent)
+Change bright at [20%](percent)
+I want a [20%](percent) of bright
+I want [20%](percent) of bright
+I need a [20%](percent) of bright
+I need [20%](percent) of bright
+I would like a [20%](percent) of bright
+I would like [20%](percent) of bright
+I wish a [20%](percent) of bright
+I wish [20%](percent) of bright
+Put bright at [20%](percent) in the [bedroom](house_room)
+Put bright in the [bedroom](house_room) at [20%](percent)
+I need a [20%](percent) of bright int he [bedroom](house_room)
+I need a [20%](percent) in the [bedroom](house_room) of bright
+I need [20%](percent) of bright in the [bedroom](house_room)
+I need [20%](percent) in the [bedroom](house_room) of bright
+I need el [20%](percent) of bright in the [bedroom](house_room)
+I need el [20%](percent) in the [bedroom](house_room) of bright
+Put brightness at [20%](percent)
+Set brightness at [20%](percent)
+Change brightness at [20%](percent)
+I want a [20%](percent) of brightness
+I want [20%](percent) of brightness
+I need a [20%](percent) of brightness
+I need [20%](percent) of brightness
+I would like a [20%](percent) of brightness
+I would like [20%](percent) of brightness
+I wish a [20%](percent) of brightness
+I wish [20%](percent) of brightness
+Set brightness at [20%](percent) in the [study](house_room)
+Set brightness in the [study](house_room) at [20%](percent)
+I would like a [20%](percent) of brightness int he [study](house_room)
+I would like a [20%](percent) in the [study](house_room) of brightness
+I would like [20%](percent) of brightness in the [study](house_room)
+I would like [20%](percent) in the [study](house_room) of brightness
+I would like el [20%](percent) of brightness in the [study](house_room)
+I would like el [20%](percent) in the [study](house_room) of brightness
+Put light at [20 percent](percent)
+Set light at [20 percent](percent)
+Change light at [20 percent](percent)
+I want a [20 percent](percent) of light
+I want [20 percent](percent) of light
+I need a [20 percent](percent) of light
+I need [20 percent](percent) of light
+I would like a [20 percent](percent) of light
+I would like [20 percent](percent) of light
+I wish a [20 percent](percent) of light
+I wish [20 percent](percent) of light
+Put light at [20 percent](percent) in the [changing room](house_room)
+Put light in the [changing room](house_room) at [20 percent](percent)
+I need a [20 percent](percent) of light int he [changing room](house_room)
+I need a [20 percent](percent) in the [changing room](house_room) of light
+I need [20 percent](percent) of light in the [changing room](house_room)
+I need [20 percent](percent) in the [changing room](house_room) of light
+I need el [20 percent](percent) of light in the [changing room](house_room)
+I need el [20 percent](percent) in the [changing room](house_room) of light
+Put light at [20 percent](percent) in the [waiting room](house_room)
+Put light in the [waiting room](house_room) at [20 percent](percent)
+I need a [20 percent](percent) of light int he [waiting room](house_room)
+I need a [20 percent](percent) in the [waiting room](house_room) of light
+I need [20 percent](percent) of light in the [waiting room](house_room)
+I need [20 percent](percent) in the [waiting room](house_room) of light
+I need el [20 percent](percent) of light in the [waiting room](house_room)
+I need el [20 percent](percent) in the [waiting room](house_room) of light
+Change light at [20 percent](percent) in the [garden](house_room)
+Change light in the [garden](house_room) at [20 percent](percent)
+Change light at [20 percent](percent) in the [house](house_room)
+Change light in the [house](house_room) at [20 percent](percent)
+I need a [20 percent](percent) of light int he [house](house_room)
+I need a [20 percent](percent) in the [house](house_room) of light
+I need [20 percent](percent) of light in the [house](house_room)
+I need [20 percent](percent) in the [house](house_room) of light
+I need el [20 percent](percent) of light in the [house](house_room)
+I need el [20 percent](percent) in the [house](house_room) of light
+Put light intensity at [20 percent](percent)
+Set light intensity at [20 percent](percent)
+Change light intensity at [20 percent](percent)
+I want a [20 percent](percent) of light intensity
+I want [20 percent](percent) of light intensity
+I need a [20 percent](percent) of light intensity
+I need [20 percent](percent) of light intensity
+I would like a [20 percent](percent) of light intensity
+I would like [20 percent](percent) of light intensity
+I wish a [20 percent](percent) of light intensity
+I wish [20 percent](percent) of light intensity
+I need a [20 percent](percent) of light intensity int he [backyard](house_room)
+I need a [20 percent](percent) in the [backyard](house_room) of light intensity
+I need [20 percent](percent) of light intensity in the [backyard](house_room)
+I need [20 percent](percent) in the [backyard](house_room) of light intensity
+I need el [20 percent](percent) of light intensity in the [backyard](house_room)
+I need el [20 percent](percent) in the [backyard](house_room) of light intensity
+I would like a [20 percent](percent) of light intensity int he [backyard](house_room)
+I would like a [20 percent](percent) in the [backyard](house_room) of light intensity
+I would like [20 percent](percent) of light intensity in the [backyard](house_room)
+I would like [20 percent](percent) in the [backyard](house_room) of light intensity
+I would like el [20 percent](percent) of light intensity in the [backyard](house_room)
+I would like el [20 percent](percent) in the [backyard](house_room) of light intensity
+Put bright at [20 percent](percent)
+Set bright at [20 percent](percent)
+Change bright at [20 percent](percent)
+I want a [20 percent](percent) of bright
+I want [20 percent](percent) of bright
+I need a [20 percent](percent) of bright
+I need [20 percent](percent) of bright
+I would like a [20 percent](percent) of bright
+I would like [20 percent](percent) of bright
+I wish a [20 percent](percent) of bright
+I wish [20 percent](percent) of bright
+Put brightness at [20 percent](percent)
+Set brightness at [20 percent](percent)
+Change brightness at [20 percent](percent)
+I want a [20 percent](percent) of brightness
+I want [20 percent](percent) of brightness
+I need a [20 percent](percent) of brightness
+I need [20 percent](percent) of brightness
+I would like a [20 percent](percent) of brightness
+I would like [20 percent](percent) of brightness
+I wish a [20 percent](percent) of brightness
+I wish [20 percent](percent) of brightness
+Set brightness at [20 percent](percent) in the [small meeting room](house_room)
+Set brightness in the [small meeting room](house_room) at [20 percent](percent)
+Put light at [10%](percent)
+Set light at [10%](percent)
+Change light at [10%](percent)
+I want a [10%](percent) of light
+I want [10%](percent) of light
+I need a [10%](percent) of light
+I need [10%](percent) of light
+I would like a [10%](percent) of light
+I would like [10%](percent) of light
+I wish a [10%](percent) of light
+I wish [10%](percent) of light
+Put light intensity at [10%](percent)
+Set light intensity at [10%](percent)
+Change light intensity at [10%](percent)
+I want a [10%](percent) of light intensity
+I want [10%](percent) of light intensity
+I need a [10%](percent) of light intensity
+I need [10%](percent) of light intensity
+I would like a [10%](percent) of light intensity
+I would like [10%](percent) of light intensity
+I wish a [10%](percent) of light intensity
+I wish [10%](percent) of light intensity
+Put light intensity at [10%](percent) in the [flat](house_room)
+Put light intensity in the [flat](house_room) at [10%](percent)
+I wish a [10%](percent) of light intensity int he [flat](house_room)
+I wish a [10%](percent) in the [flat](house_room) of light intensity
+I wish [10%](percent) of light intensity in the [flat](house_room)
+I wish [10%](percent) in the [flat](house_room) of light intensity
+I wish el [10%](percent) of light intensity in the [flat](house_room)
+I wish el [10%](percent) in the [flat](house_room) of light intensity
+Put bright at [10%](percent)
+Set bright at [10%](percent)
+Change bright at [10%](percent)
+I want a [10%](percent) of bright
+I want [10%](percent) of bright
+I need a [10%](percent) of bright
+I need [10%](percent) of bright
+I would like a [10%](percent) of bright
+I would like [10%](percent) of bright
+I wish a [10%](percent) of bright
+I wish [10%](percent) of bright
+I want a [10%](percent) of bright int he [changing room](house_room)
+I want a [10%](percent) in the [changing room](house_room) of bright
+I want [10%](percent) of bright in the [changing room](house_room)
+I want [10%](percent) in the [changing room](house_room) of bright
+I want el [10%](percent) of bright in the [changing room](house_room)
+I want el [10%](percent) in the [changing room](house_room) of bright
+Put brightness at [10%](percent)
+Set brightness at [10%](percent)
+Change brightness at [10%](percent)
+I want a [10%](percent) of brightness
+I want [10%](percent) of brightness
+I need a [10%](percent) of brightness
+I need [10%](percent) of brightness
+I would like a [10%](percent) of brightness
+I would like [10%](percent) of brightness
+I wish a [10%](percent) of brightness
+I wish [10%](percent) of brightness
+I want a [10%](percent) of brightness int he [kitchen](house_room)
+I want a [10%](percent) in the [kitchen](house_room) of brightness
+I want [10%](percent) of brightness in the [kitchen](house_room)
+I want [10%](percent) in the [kitchen](house_room) of brightness
+I want el [10%](percent) of brightness in the [kitchen](house_room)
+I want el [10%](percent) in the [kitchen](house_room) of brightness
+I wish a [10%](percent) of brightness int he [kitchen](house_room)
+I wish a [10%](percent) in the [kitchen](house_room) of brightness
+I wish [10%](percent) of brightness in the [kitchen](house_room)
+I wish [10%](percent) in the [kitchen](house_room) of brightness
+I wish el [10%](percent) of brightness in the [kitchen](house_room)
+I wish el [10%](percent) in the [kitchen](house_room) of brightness
+I need a [10%](percent) of brightness int he [garden](house_room)
+I need a [10%](percent) in the [garden](house_room) of brightness
+I need [10%](percent) of brightness in the [garden](house_room)
+I need [10%](percent) in the [garden](house_room) of brightness
+I need el [10%](percent) of brightness in the [garden](house_room)
+I need el [10%](percent) in the [garden](house_room) of brightness
+Put light at [10 percent](percent)
+Set light at [10 percent](percent)
+Change light at [10 percent](percent)
+I want a [10 percent](percent) of light
+I want [10 percent](percent) of light
+I need a [10 percent](percent) of light
+I need [10 percent](percent) of light
+I would like a [10 percent](percent) of light
+I would like [10 percent](percent) of light
+I wish a [10 percent](percent) of light
+I wish [10 percent](percent) of light
+Put light intensity at [10 percent](percent)
+Set light intensity at [10 percent](percent)
+Change light intensity at [10 percent](percent)
+I want a [10 percent](percent) of light intensity
+I want [10 percent](percent) of light intensity
+I need a [10 percent](percent) of light intensity
+I need [10 percent](percent) of light intensity
+I would like a [10 percent](percent) of light intensity
+I would like [10 percent](percent) of light intensity
+I wish a [10 percent](percent) of light intensity
+I wish [10 percent](percent) of light intensity
+Put bright at [10 percent](percent)
+Set bright at [10 percent](percent)
+Change bright at [10 percent](percent)
+I want a [10 percent](percent) of bright
+I want [10 percent](percent) of bright
+I need a [10 percent](percent) of bright
+I need [10 percent](percent) of bright
+I would like a [10 percent](percent) of bright
+I would like [10 percent](percent) of bright
+I wish a [10 percent](percent) of bright
+I wish [10 percent](percent) of bright
+I need a [10 percent](percent) of bright int he [flat](house_room)
+I need a [10 percent](percent) in the [flat](house_room) of bright
+I need [10 percent](percent) of bright in the [flat](house_room)
+I need [10 percent](percent) in the [flat](house_room) of bright
+I need el [10 percent](percent) of bright in the [flat](house_room)
+I need el [10 percent](percent) in the [flat](house_room) of bright
+Put brightness at [10 percent](percent)
+Set brightness at [10 percent](percent)
+Change brightness at [10 percent](percent)
+I want a [10 percent](percent) of brightness
+I want [10 percent](percent) of brightness
+I need a [10 percent](percent) of brightness
+I need [10 percent](percent) of brightness
+I would like a [10 percent](percent) of brightness
+I would like [10 percent](percent) of brightness
+I wish a [10 percent](percent) of brightness
+I wish [10 percent](percent) of brightness
+Change brightness at [10 percent](percent) in the [toilets](house_room)
+Change brightness in the [toilets](house_room) at [10 percent](percent)
+I wish a [10 percent](percent) of brightness int he [toilets](house_room)
+I wish a [10 percent](percent) in the [toilets](house_room) of brightness
+I wish [10 percent](percent) of brightness in the [toilets](house_room)
+I wish [10 percent](percent) in the [toilets](house_room) of brightness
+I wish el [10 percent](percent) of brightness in the [toilets](house_room)
+I wish el [10 percent](percent) in the [toilets](house_room) of brightness
+I would like a [10 percent](percent) of brightness int he [garage](house_room)
+I would like a [10 percent](percent) in the [garage](house_room) of brightness
+I would like [10 percent](percent) of brightness in the [garage](house_room)
+I would like [10 percent](percent) in the [garage](house_room) of brightness
+I would like el [10 percent](percent) of brightness in the [garage](house_room)
+I would like el [10 percent](percent) in the [garage](house_room) of brightness
+Put light at [15%](percent)
+Set light at [15%](percent)
+Change light at [15%](percent)
+I want a [15%](percent) of light
+I want [15%](percent) of light
+I need a [15%](percent) of light
+I need [15%](percent) of light
+I would like a [15%](percent) of light
+I would like [15%](percent) of light
+I wish a [15%](percent) of light
+I wish [15%](percent) of light
+Change light at [15%](percent) in the [toilets](house_room)
+Change light in the [toilets](house_room) at [15%](percent)
+I need a [15%](percent) of light int he [toilets](house_room)
+I need a [15%](percent) in the [toilets](house_room) of light
+I need [15%](percent) of light in the [toilets](house_room)
+I need [15%](percent) in the [toilets](house_room) of light
+I need el [15%](percent) of light in the [toilets](house_room)
+I need el [15%](percent) in the [toilets](house_room) of light
+I would like a [15%](percent) of light int he [toilets](house_room)
+I would like a [15%](percent) in the [toilets](house_room) of light
+I would like [15%](percent) of light in the [toilets](house_room)
+I would like [15%](percent) in the [toilets](house_room) of light
+I would like el [15%](percent) of light in the [toilets](house_room)
+I would like el [15%](percent) in the [toilets](house_room) of light
+Change light at [15%](percent) in the [kids bedroom](house_room)
+Change light in the [kids bedroom](house_room) at [15%](percent)
+Put light intensity at [15%](percent)
+Set light intensity at [15%](percent)
+Change light intensity at [15%](percent)
+I want a [15%](percent) of light intensity
+I want [15%](percent) of light intensity
+I need a [15%](percent) of light intensity
+I need [15%](percent) of light intensity
+I would like a [15%](percent) of light intensity
+I would like [15%](percent) of light intensity
+I wish a [15%](percent) of light intensity
+I wish [15%](percent) of light intensity
+Put light intensity at [15%](percent) in the [bathroom](house_room)
+Put light intensity in the [bathroom](house_room) at [15%](percent)
+Put bright at [15%](percent)
+Set bright at [15%](percent)
+Change bright at [15%](percent)
+I want a [15%](percent) of bright
+I want [15%](percent) of bright
+I need a [15%](percent) of bright
+I need [15%](percent) of bright
+I would like a [15%](percent) of bright
+I would like [15%](percent) of bright
+I wish a [15%](percent) of bright
+I wish [15%](percent) of bright
+Put brightness at [15%](percent)
+Set brightness at [15%](percent)
+Change brightness at [15%](percent)
+I want a [15%](percent) of brightness
+I want [15%](percent) of brightness
+I need a [15%](percent) of brightness
+I need [15%](percent) of brightness
+I would like a [15%](percent) of brightness
+I would like [15%](percent) of brightness
+I wish a [15%](percent) of brightness
+I wish [15%](percent) of brightness
+Set brightness at [15%](percent) in the [vestibule](house_room)
+Set brightness in the [vestibule](house_room) at [15%](percent)
+Put brightness at [15%](percent) in the [room](house_room)
+Put brightness in the [room](house_room) at [15%](percent)
+Set brightness at [15%](percent) in the [room](house_room)
+Set brightness in the [room](house_room) at [15%](percent)
+I want a [15%](percent) of brightness int he [room](house_room)
+I want a [15%](percent) in the [room](house_room) of brightness
+I want [15%](percent) of brightness in the [room](house_room)
+I want [15%](percent) in the [room](house_room) of brightness
+I want el [15%](percent) of brightness in the [room](house_room)
+I want el [15%](percent) in the [room](house_room) of brightness
+Put light at [15 percent](percent)
+Set light at [15 percent](percent)
+Change light at [15 percent](percent)
+I want a [15 percent](percent) of light
+I want [15 percent](percent) of light
+I need a [15 percent](percent) of light
+I need [15 percent](percent) of light
+I would like a [15 percent](percent) of light
+I would like [15 percent](percent) of light
+I wish a [15 percent](percent) of light
+I wish [15 percent](percent) of light
+Put light intensity at [15 percent](percent)
+Set light intensity at [15 percent](percent)
+Change light intensity at [15 percent](percent)
+I want a [15 percent](percent) of light intensity
+I want [15 percent](percent) of light intensity
+I need a [15 percent](percent) of light intensity
+I need [15 percent](percent) of light intensity
+I would like a [15 percent](percent) of light intensity
+I would like [15 percent](percent) of light intensity
+I wish a [15 percent](percent) of light intensity
+I wish [15 percent](percent) of light intensity
+Set light intensity at [15 percent](percent) in the [parking](house_room)
+Set light intensity in the [parking](house_room) at [15 percent](percent)
+Change light intensity at [15 percent](percent) in the [parking](house_room)
+Change light intensity in the [parking](house_room) at [15 percent](percent)
+I need a [15 percent](percent) of light intensity int he [parking](house_room)
+I need a [15 percent](percent) in the [parking](house_room) of light intensity
+I need [15 percent](percent) of light intensity in the [parking](house_room)
+I need [15 percent](percent) in the [parking](house_room) of light intensity
+I need el [15 percent](percent) of light intensity in the [parking](house_room)
+I need el [15 percent](percent) in the [parking](house_room) of light intensity
+I would like a [15 percent](percent) of light intensity int he [parking](house_room)
+I would like a [15 percent](percent) in the [parking](house_room) of light intensity
+I would like [15 percent](percent) of light intensity in the [parking](house_room)
+I would like [15 percent](percent) in the [parking](house_room) of light intensity
+I would like el [15 percent](percent) of light intensity in the [parking](house_room)
+I would like el [15 percent](percent) in the [parking](house_room) of light intensity
+Put bright at [15 percent](percent)
+Set bright at [15 percent](percent)
+Change bright at [15 percent](percent)
+I want a [15 percent](percent) of bright
+I want [15 percent](percent) of bright
+I need a [15 percent](percent) of bright
+I need [15 percent](percent) of bright
+I would like a [15 percent](percent) of bright
+I would like [15 percent](percent) of bright
+I wish a [15 percent](percent) of bright
+I wish [15 percent](percent) of bright
+I would like a [15 percent](percent) of bright int he [backyard](house_room)
+I would like a [15 percent](percent) in the [backyard](house_room) of bright
+I would like [15 percent](percent) of bright in the [backyard](house_room)
+I would like [15 percent](percent) in the [backyard](house_room) of bright
+I would like el [15 percent](percent) of bright in the [backyard](house_room)
+I would like el [15 percent](percent) in the [backyard](house_room) of bright
+Put brightness at [15 percent](percent)
+Set brightness at [15 percent](percent)
+Change brightness at [15 percent](percent)
+I want a [15 percent](percent) of brightness
+I want [15 percent](percent) of brightness
+I need a [15 percent](percent) of brightness
+I need [15 percent](percent) of brightness
+I would like a [15 percent](percent) of brightness
+I would like [15 percent](percent) of brightness
+I wish a [15 percent](percent) of brightness
+I wish [15 percent](percent) of brightness
+Put light at [40%](percent)
+Set light at [40%](percent)
+Change light at [40%](percent)
+I want a [40%](percent) of light
+I want [40%](percent) of light
+I need a [40%](percent) of light
+I need [40%](percent) of light
+I would like a [40%](percent) of light
+I would like [40%](percent) of light
+I wish a [40%](percent) of light
+I wish [40%](percent) of light
+Put light at [40%](percent) in the [kids bedroom](house_room)
+Put light in the [kids bedroom](house_room) at [40%](percent)
+Set light at [40%](percent) in the [kids bedroom](house_room)
+Set light in the [kids bedroom](house_room) at [40%](percent)
+I would like a [40%](percent) of light int he [kids bedroom](house_room)
+I would like a [40%](percent) in the [kids bedroom](house_room) of light
+I would like [40%](percent) of light in the [kids bedroom](house_room)
+I would like [40%](percent) in the [kids bedroom](house_room) of light
+I would like el [40%](percent) of light in the [kids bedroom](house_room)
+I would like el [40%](percent) in the [kids bedroom](house_room) of light
+I wish a [40%](percent) of light int he [kids bedroom](house_room)
+I wish a [40%](percent) in the [kids bedroom](house_room) of light
+I wish [40%](percent) of light in the [kids bedroom](house_room)
+I wish [40%](percent) in the [kids bedroom](house_room) of light
+I wish el [40%](percent) of light in the [kids bedroom](house_room)
+I wish el [40%](percent) in the [kids bedroom](house_room) of light
+Put light intensity at [40%](percent)
+Set light intensity at [40%](percent)
+Change light intensity at [40%](percent)
+I want a [40%](percent) of light intensity
+I want [40%](percent) of light intensity
+I need a [40%](percent) of light intensity
+I need [40%](percent) of light intensity
+I would like a [40%](percent) of light intensity
+I would like [40%](percent) of light intensity
+I wish a [40%](percent) of light intensity
+I wish [40%](percent) of light intensity
+Put bright at [40%](percent)
+Set bright at [40%](percent)
+Change bright at [40%](percent)
+I want a [40%](percent) of bright
+I want [40%](percent) of bright
+I need a [40%](percent) of bright
+I need [40%](percent) of bright
+I would like a [40%](percent) of bright
+I would like [40%](percent) of bright
+I wish a [40%](percent) of bright
+I wish [40%](percent) of bright
+Put brightness at [40%](percent)
+Set brightness at [40%](percent)
+Change brightness at [40%](percent)
+I want a [40%](percent) of brightness
+I want [40%](percent) of brightness
+I need a [40%](percent) of brightness
+I need [40%](percent) of brightness
+I would like a [40%](percent) of brightness
+I would like [40%](percent) of brightness
+I wish a [40%](percent) of brightness
+I wish [40%](percent) of brightness
+Put light at [40 percent](percent)
+Set light at [40 percent](percent)
+Change light at [40 percent](percent)
+I want a [40 percent](percent) of light
+I want [40 percent](percent) of light
+I need a [40 percent](percent) of light
+I need [40 percent](percent) of light
+I would like a [40 percent](percent) of light
+I would like [40 percent](percent) of light
+I wish a [40 percent](percent) of light
+I wish [40 percent](percent) of light
+Put light intensity at [40 percent](percent)
+Set light intensity at [40 percent](percent)
+Change light intensity at [40 percent](percent)
+I want a [40 percent](percent) of light intensity
+I want [40 percent](percent) of light intensity
+I need a [40 percent](percent) of light intensity
+I need [40 percent](percent) of light intensity
+I would like a [40 percent](percent) of light intensity
+I would like [40 percent](percent) of light intensity
+I wish a [40 percent](percent) of light intensity
+I wish [40 percent](percent) of light intensity
+Put bright at [40 percent](percent)
+Set bright at [40 percent](percent)
+Change bright at [40 percent](percent)
+I want a [40 percent](percent) of bright
+I want [40 percent](percent) of bright
+I need a [40 percent](percent) of bright
+I need [40 percent](percent) of bright
+I would like a [40 percent](percent) of bright
+I would like [40 percent](percent) of bright
+I wish a [40 percent](percent) of bright
+I wish [40 percent](percent) of bright
+I would like a [40 percent](percent) of bright int he [small meeting room](house_room)
+I would like a [40 percent](percent) in the [small meeting room](house_room) of bright
+I would like [40 percent](percent) of bright in the [small meeting room](house_room)
+I would like [40 percent](percent) in the [small meeting room](house_room) of bright
+I would like el [40 percent](percent) of bright in the [small meeting room](house_room)
+I would like el [40 percent](percent) in the [small meeting room](house_room) of bright
+Put brightness at [40 percent](percent)
+Set brightness at [40 percent](percent)
+Change brightness at [40 percent](percent)
+I want a [40 percent](percent) of brightness
+I want [40 percent](percent) of brightness
+I need a [40 percent](percent) of brightness
+I need [40 percent](percent) of brightness
+I would like a [40 percent](percent) of brightness
+I would like [40 percent](percent) of brightness
+I wish a [40 percent](percent) of brightness
+I wish [40 percent](percent) of brightness
+Put light at [30%](percent)
+Set light at [30%](percent)
+Change light at [30%](percent)
+I want a [30%](percent) of light
+I want [30%](percent) of light
+I need a [30%](percent) of light
+I need [30%](percent) of light
+I would like a [30%](percent) of light
+I would like [30%](percent) of light
+I wish a [30%](percent) of light
+I wish [30%](percent) of light
+Put light intensity at [30%](percent)
+Set light intensity at [30%](percent)
+Change light intensity at [30%](percent)
+I want a [30%](percent) of light intensity
+I want [30%](percent) of light intensity
+I need a [30%](percent) of light intensity
+I need [30%](percent) of light intensity
+I would like a [30%](percent) of light intensity
+I would like [30%](percent) of light intensity
+I wish a [30%](percent) of light intensity
+I wish [30%](percent) of light intensity
+Put light intensity at [30%](percent) in the [shed](house_room)
+Put light intensity in the [shed](house_room) at [30%](percent)
+Put bright at [30%](percent)
+Set bright at [30%](percent)
+Change bright at [30%](percent)
+I want a [30%](percent) of bright
+I want [30%](percent) of bright
+I need a [30%](percent) of bright
+I need [30%](percent) of bright
+I would like a [30%](percent) of bright
+I would like [30%](percent) of bright
+I wish a [30%](percent) of bright
+I wish [30%](percent) of bright
+I would like a [30%](percent) of bright int he [entrance](house_room)
+I would like a [30%](percent) in the [entrance](house_room) of bright
+I would like [30%](percent) of bright in the [entrance](house_room)
+I would like [30%](percent) in the [entrance](house_room) of bright
+I would like el [30%](percent) of bright in the [entrance](house_room)
+I would like el [30%](percent) in the [entrance](house_room) of bright
+Put brightness at [30%](percent)
+Set brightness at [30%](percent)
+Change brightness at [30%](percent)
+I want a [30%](percent) of brightness
+I want [30%](percent) of brightness
+I need a [30%](percent) of brightness
+I need [30%](percent) of brightness
+I would like a [30%](percent) of brightness
+I would like [30%](percent) of brightness
+I wish a [30%](percent) of brightness
+I wish [30%](percent) of brightness
+Put light at [30 percent](percent)
+Set light at [30 percent](percent)
+Change light at [30 percent](percent)
+I want a [30 percent](percent) of light
+I want [30 percent](percent) of light
+I need a [30 percent](percent) of light
+I need [30 percent](percent) of light
+I would like a [30 percent](percent) of light
+I would like [30 percent](percent) of light
+I wish a [30 percent](percent) of light
+I wish [30 percent](percent) of light
+Put light at [30 percent](percent) in the [bedroom](house_room)
+Put light in the [bedroom](house_room) at [30 percent](percent)
+Change light at [30 percent](percent) in the [bedroom](house_room)
+Change light in the [bedroom](house_room) at [30 percent](percent)
+I want a [30 percent](percent) of light int he [bedroom](house_room)
+I want a [30 percent](percent) in the [bedroom](house_room) of light
+I want [30 percent](percent) of light in the [bedroom](house_room)
+I want [30 percent](percent) in the [bedroom](house_room) of light
+I want el [30 percent](percent) of light in the [bedroom](house_room)
+I want el [30 percent](percent) in the [bedroom](house_room) of light
+Put light intensity at [30 percent](percent)
+Set light intensity at [30 percent](percent)
+Change light intensity at [30 percent](percent)
+I want a [30 percent](percent) of light intensity
+I want [30 percent](percent) of light intensity
+I need a [30 percent](percent) of light intensity
+I need [30 percent](percent) of light intensity
+I would like a [30 percent](percent) of light intensity
+I would like [30 percent](percent) of light intensity
+I wish a [30 percent](percent) of light intensity
+I wish [30 percent](percent) of light intensity
+I need a [30 percent](percent) of light intensity int he [everywhere](house_room)
+I need a [30 percent](percent) in the [everywhere](house_room) of light intensity
+I need [30 percent](percent) of light intensity in the [everywhere](house_room)
+I need [30 percent](percent) in the [everywhere](house_room) of light intensity
+I need el [30 percent](percent) of light intensity in the [everywhere](house_room)
+I need el [30 percent](percent) in the [everywhere](house_room) of light intensity
+Put bright at [30 percent](percent)
+Set bright at [30 percent](percent)
+Change bright at [30 percent](percent)
+I want a [30 percent](percent) of bright
+I want [30 percent](percent) of bright
+I need a [30 percent](percent) of bright
+I need [30 percent](percent) of bright
+I would like a [30 percent](percent) of bright
+I would like [30 percent](percent) of bright
+I wish a [30 percent](percent) of bright
+I wish [30 percent](percent) of bright
+Put brightness at [30 percent](percent)
+Set brightness at [30 percent](percent)
+Change brightness at [30 percent](percent)
+I want a [30 percent](percent) of brightness
+I want [30 percent](percent) of brightness
+I need a [30 percent](percent) of brightness
+I need [30 percent](percent) of brightness
+I would like a [30 percent](percent) of brightness
+I would like [30 percent](percent) of brightness
+I wish a [30 percent](percent) of brightness
+I wish [30 percent](percent) of brightness
+Change brightness at [30 percent](percent) in the [toilets](house_room)
+Change brightness in the [toilets](house_room) at [30 percent](percent)
+I would like a [30 percent](percent) of brightness int he [toilets](house_room)
+I would like a [30 percent](percent) in the [toilets](house_room) of brightness
+I would like [30 percent](percent) of brightness in the [toilets](house_room)
+I would like [30 percent](percent) in the [toilets](house_room) of brightness
+I would like el [30 percent](percent) of brightness in the [toilets](house_room)
+I would like el [30 percent](percent) in the [toilets](house_room) of brightness
+I wish a [30 percent](percent) of brightness int he [toilets](house_room)
+I wish a [30 percent](percent) in the [toilets](house_room) of brightness
+I wish [30 percent](percent) of brightness in the [toilets](house_room)
+I wish [30 percent](percent) in the [toilets](house_room) of brightness
+I wish el [30 percent](percent) of brightness in the [toilets](house_room)
+I wish el [30 percent](percent) in the [toilets](house_room) of brightness

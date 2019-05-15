@@ -1,0 +1,34 @@
+basement
+office
+bathroom
+pantry
+vestibule
+study
+cubicle
+dining room
+changing room
+laundry room
+waiting room
+kitchen
+living room
+bedroom
+entrance
+backyard
+toilets
+shed
+kids bedroom
+garage
+parking
+garden
+patio
+cellar
+everywhere
+boardroom
+large meeting room
+small meeting room
+meeting room
+house
+flat
+appartment
+room
+danis room
